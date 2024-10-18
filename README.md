@@ -4,6 +4,14 @@ Welcome to **LightHouse** - your personal guide to discovering the world! 🏞�
 
 ![WhatsApp Image 2024-10-19 at 01 21 14_8c79f4da](https://github.com/user-attachments/assets/ee166ff3-8594-495f-9526-35359806f8ea)
 
+*** ***
+
+![{EE9BDD18-C506-4B83-BDA1-DB6EC457B364}](https://github.com/user-attachments/assets/f1d17340-9985-4ff9-b157-e3914e7d9337)
+
+*** ***
+
+![{B1034970-95CF-41CA-A7E7-131853F7CB8C}](https://github.com/user-attachments/assets/49d1c2fd-89d3-4ec6-a11b-4070632053fc)
+
 
 ## ✨ Features
 
