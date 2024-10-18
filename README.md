@@ -2,7 +2,8 @@
 
 Welcome to **LightHouse** - your personal guide to discovering the world! 🏞️ This web application is designed to make your travel planning effortless and exciting, offering a seamless platform for exploring destinations, booking tours, and much more. 🌐
 
-![LightHouse Banner](https://via.placeholder.com/1200x400?text=LightHouse+Travel+%26+Tourism)
+![{F2AF9382-6595-4E50-92B6-689A7F18E369}](https://github.com/user-attachments/assets/45094a4d-8b17-4d64-a0b3-d29fe49391be)
+
 
 ## ✨ Features
 
