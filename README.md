@@ -2,7 +2,7 @@
 
 Welcome to **LightHouse** - your personal guide to discovering the world! 🏞️ This web application is designed to make your travel planning effortless and exciting, offering a seamless platform for exploring destinations, booking tours, and much more. 🌐
 
-![{1BAD4BF3-2CA4-46EA-9435-3636BBC42DB0}](https://github.com/user-attachments/assets/c15e55fa-ed0c-43fb-b5e6-028c1e5368b0)
+![WhatsApp Image 2024-10-19 at 01 21 14_8c79f4da](https://github.com/user-attachments/assets/ee166ff3-8594-495f-9526-35359806f8ea)
 
 
 ## ✨ Features
