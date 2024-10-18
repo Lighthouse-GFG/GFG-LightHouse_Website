@@ -66,19 +66,15 @@ For example, to deploy on GitHub Pages:
 1. Push your code to the `gh-pages` branch.
 2. Go to the repository settings and activate GitHub Pages.
 
-## 🛡️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 💬 Contact
 
 Feel free to reach out for any questions or collaborations!
 
-- Email: youremail@example.com
+- Email: lighthouse1001001@gmail.com
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [LightHouse](https://github.com/your-username)
 
 ![Footer](https://via.placeholder.com/1200x200?text=Happy+Travels+from+LightHouse)
